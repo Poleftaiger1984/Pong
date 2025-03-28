@@ -1,0 +1,12 @@
+﻿  Ball.cpp
+  main.cpp
+C:\Users\user\source\repos\Pong\Ball.cpp(10,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\Pong\Ball.cpp(17,22): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\source\repos\Pong\Ball.cpp(18,22): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\source\repos\Pong\Ball.cpp(48,21): warning C4244: '=': conversion from 'const _Ty' to 'int', possible loss of data
+C:\Users\user\source\repos\Pong\Ball.cpp(48,21): warning C4244:         with
+C:\Users\user\source\repos\Pong\Ball.cpp(48,21): warning C4244:         [
+C:\Users\user\source\repos\Pong\Ball.cpp(48,21): warning C4244:             _Ty=double
+C:\Users\user\source\repos\Pong\Ball.cpp(48,21): warning C4244:         ]
+  Generating Code...
+  Pong.vcxproj -> C:\Users\user\source\repos\Pong\x64\Debug\Pong.exe
