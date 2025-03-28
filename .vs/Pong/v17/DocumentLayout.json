@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Pong\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6F2F5EB1-28F9-445B-A33B-C8F34ABE1F9B}|Pong.vcxproj|C:\\Users\\user\\source\\repos\\Pong\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F2F5EB1-28F9-445B-A33B-C8F34ABE1F9B}|Pong.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F2F5EB1-28F9-445B-A33B-C8F34ABE1F9B}|Pong.vcxproj|C:\\Users\\user\\source\\repos\\Pong\\Ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6F2F5EB1-28F9-445B-A33B-C8F34ABE1F9B}|Pong.vcxproj|solutionrelative:Ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6F2F5EB1-28F9-445B-A33B-C8F34ABE1F9B}|Pong.vcxproj|C:\\Users\\user\\source\\repos\\Pong\\Paddle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6F2F5EB1-28F9-445B-A33B-C8F34ABE1F9B}|Pong.vcxproj|solutionrelative:Paddle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F2F5EB1-28F9-445B-A33B-C8F34ABE1F9B}|Pong.vcxproj|C:\\Users\\user\\source\\repos\\Pong\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6F2F5EB1-28F9-445B-A33B-C8F34ABE1F9B}|Pong.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Ball.cpp",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pong\\Ball.cpp",
               "RelativeDocumentMoniker": "Ball.cpp",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Pong\\Ball.cpp",
               "RelativeToolTip": "Ball.cpp",
-              "ViewState": "AgIAACoAAAAAAAAAAAD4vz0AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAD4vz0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-26T11:45:54.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Ball.h",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pong\\Ball.h",
               "RelativeDocumentMoniker": "Ball.h",
@@ -55,12 +55,11 @@
               "RelativeToolTip": "Ball.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-26T11:46:23.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T11:46:23.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Paddle.h",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pong\\Paddle.h",
               "RelativeDocumentMoniker": "Paddle.h",
@@ -68,12 +67,11 @@
               "RelativeToolTip": "Paddle.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-26T11:46:31.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T11:46:31.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Paddle.cpp",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pong\\Paddle.cpp",
               "RelativeDocumentMoniker": "Paddle.cpp",
@@ -81,18 +79,17 @@
               "RelativeToolTip": "Paddle.cpp",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-26T11:46:02.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-26T11:46:02.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Pong\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Pong\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-24T15:42:07.86Z",
               "EditorCaption": ""
